@@ -10,7 +10,7 @@ import UIKit
 class ViewController: UIViewController {
     
     var facts = [
-        "I'm from Boston Massachussets", "My favorite candy is Skittles", "I've been dancing since I was 2"
+        "I'm from Boston Mass.", "My favorite candy is Skittles", "I'm a dancer"
     ]
 
     @IBOutlet weak var appTitle: UILabel!
